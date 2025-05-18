@@ -1,86 +1,105 @@
-# 💫 About Me
 
-### 👋 Hi, I'm **Rohith Reddy Depa**
+# 💫 Rohith Reddy Depa
+
 🎓 MS in Computer Science @ University of Houston (May 2025)  
 💼 Former Software Engineer @ OpenText  
-📧 rohithreddydepa@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/rohithreddydepa) | 🌐 [Portfolio](https://rohithreddydepa.github.io/latest-portfolio/)  
+📬 rohithreddydepa@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohithreddydepa) | 🌐 [Portfolio Website](https://rohithreddydepa.github.io/latest-portfolio/)  
 
 ---
 
-## 🚀 Summary
+## 🚀 About Me
 
-I'm a passionate software engineer and researcher specializing in building scalable web applications, AI-powered systems, and cloud-native solutions. Currently, I’m involved in impactful geospatial AI research for TxDOT at the University of Houston and continuously exploring cutting-edge technologies in backend systems and data engineering.
+I'm a software engineer and AI researcher passionate about solving real-world problems with scalable, cloud-native applications. I bring experience in backend engineering, cloud automation, and AI/ML-based systems. Currently, I’m working on impactful geospatial AI research for the Texas Department of Transportation (TxDOT), while actively contributing to open-source and academic projects.
+
+---
+
+## 🧠 Summary of Skills
+
+- 💡 **Core Expertise:** Java, Spring Boot, Python, Node.js, Angular, React  
+- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, Jenkins  
+- 📊 **Data & AI:** PostgreSQL, MongoDB, Redis, Firebase, Computer Vision, ML  
+- 🌐 **Web Stack:** REST APIs, Microservices, TailwindCSS, TypeScript, HTML/CSS  
+- 🧪 **Tools:** Git, Jira, Cascade CMS, Selenium, Postman
 
 ---
 
 ## 💼 Experience
 
-### 🧪 Research Assistant — *University of Houston*  
-- Rebuilt the departmental website on Cascade CMS; boosted traffic by 30% using SEO techniques.  
-- Developed YOLOv8 model to detect 10K+ undocumented traffic signs, improving GIS data coverage by 40%.  
-- Automated infrastructure damage detection (signs, lights, pavement) with ResNet50.
+### 🔬 Research Assistant — *University of Houston*  
+*Aug 2023 – Present*  
+- Rebuilt the department’s website in Cascade CMS; improved SEO and traffic by 30%.  
+- Designed a YOLOv8-based traffic sign detection system that mapped 10K+ undocumented signs, enhancing GIS data coverage by 40%.  
+- Implemented automated infrastructure damage detection (lights, signs, pavement) using ResNet50 and OpenCV pipelines.
 
-### 🏢 Software Engineer — *OpenText*  
-- Engineered Angular + Spring Boot platform handling 50K+ requests/day; latency reduced by 35%.  
-- Migrated ETL jobs to AWS Glue & Lambda, cutting runtime from 6 hours to 90 minutes.  
-- Migrated PHP to .NET Core; developed REST APIs for 1K+ concurrent users.  
-- Led CI/CD using GitHub Actions and Jenkins, achieving 99.9% deployment success.
+### 💻 Software Engineer — *OpenText*  
+*July 2021 – July 2023*  
+- Built a scalable Angular + Spring Boot platform handling 50K+ daily requests; improved latency by 35%.  
+- Reengineered ETL pipelines using AWS Glue & Lambda, reducing processing time from 6 hours to 90 minutes.  
+- Migrated PHP monoliths to .NET Core microservices and implemented REST APIs supporting 1K+ concurrent users.  
+- Led CI/CD with GitHub Actions and Jenkins; achieved 99.9% successful deployments.
 
 ---
 
-## 💻 Tech Stack
+## 🔧 Tech Stack
 
-**Languages:**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### 👨‍💻 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Frontend:**  
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🖼️ Frontend  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend / Cloud / DevOps:**  
+### 🔙 Backend & DevOps  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Databases & Tools:**  
+### 🗃️ Databases & Tools  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rohithreddydepa&theme=dark&show_icons=true&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddydepa&layout=compact&theme=dark&hide_border=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=rohithreddydepa&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohithreddydepa&theme=tokyonight&show_icons=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithreddydepa&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=rohithreddydepa&theme=radical&no-bg=true&margin-w=8)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohithreddydepa&theme=gruvbox&no-bg=true&row=1&margin-w=10" />
+</p>
 
 ---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Quote of the Day  
+> _“Programs must be written for people to read, and only incidentally for machines to execute.”_ – Harold Abelson
 
 ---
 
-## 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=rohithreddydepa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📈 Contribution Stats
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rohithreddydepa&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=rohithreddydepa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📍 Visitor Count  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rohithreddydepa&icon=0&color=0" />
+</p>
