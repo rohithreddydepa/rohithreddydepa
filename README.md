@@ -4,7 +4,7 @@
 🎓 MS in Computer Science @ University of Houston (May 2025)  
 💼 Former Software Engineer @ OpenText  
 📬 rohithreddydepa@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rohithreddydepa) | 🌐 [Portfolio Website](https://rohithreddydepa.github.io/latest-portfolio/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohithreddydepa) | 🌐 [Portfolio Website](https://rohithreddydepa.github.io/v2/)  
 
 ---
 
